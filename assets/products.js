@@ -589,18 +589,6 @@ window.PRODUCTS = [
   },
   {
     "id": 50,
-    "slug": "feliator-pentru-paine-pliabil",
-    "name": "Feliator pentru pâine pliabil",
-    "description": "Dispozitiv practic pentru tăiere uniformă, economisire spațiu și utilizare sigură",
-    "price": "12 Lei",
-    "stock": "0",
-    "video": "https://i.imgur.com/pH8dZ7t",
-    "category": "Casă și grădină",
-    "image": "assets/images/feliator-pentru-paine-pliabil.webp",
-    "featured": false
-  },
-  {
-    "id": 51,
     "slug": "crema-pentru-marire-si-grosime",
     "name": "Cremă pentru mărire și grosime",
     "description": "Efect intens și rapid",
@@ -612,7 +600,7 @@ window.PRODUCTS = [
     "featured": false
   },
   {
-    "id": 52,
+    "id": 51,
     "slug": "spray-pentru-intarzierea-ejacularii",
     "name": "Spray pentru întârzierea ejaculării",
     "description": "Control și durată prelungită",
@@ -624,19 +612,7 @@ window.PRODUCTS = [
     "featured": false
   },
   {
-    "id": 53,
-    "slug": "ascutitor-manual-pentru-cutite",
-    "name": "Ascuțitor manual pentru cuțite",
-    "description": "Mâner ergonomic antiderapant, bază stabilă, uz casnic & profesional",
-    "price": "10 Lei",
-    "stock": "500",
-    "video": "https://i.imgur.com/O3rMrnq",
-    "category": "Casă și grădină",
-    "image": "assets/images/knife-sharpener.webp",
-    "featured": true
-  },
-  {
-    "id": 54,
+    "id": 52,
     "slug": "banda-led-ambientala-pentru-faruri-auto-2-buc",
     "name": "Bandă LED ambientală pentru faruri auto (2 buc.)",
     "description": "Iluminare interior, montaj ușor, design modern",
@@ -648,7 +624,7 @@ window.PRODUCTS = [
     "featured": false
   },
   {
-    "id": 55,
+    "id": 53,
     "slug": "suport-laptop-pliabil-si-reglabil-bax-100-buc",
     "name": "Suport laptop pliabil și reglabil (bax 100 buc.)",
     "description": "Plastic de înaltă calitate, design ergonomic, bază anti-alunecare, ideal pentru birou și călătorii.",
@@ -658,9 +634,9 @@ window.PRODUCTS = [
     "category": "Gadgeturi și accesorii",
     "image": "assets/images/laptop-stand.webp",
     "featured": true
-  },
+  }, 
   {
-    "id": 56,
+    "id": 54,
     "slug": "panou-decorativ-autoadeziv-tip-caramida-3d",
     "name": "Panou decorativ autoadeziv tip cărămidă 3D",
     "description": "Pentru perete, design realist, ușor de montat, decor interior",
@@ -670,9 +646,9 @@ window.PRODUCTS = [
     "category": "Casă și grădină",
     "image": "assets/images/panou-decorativ-autoadeziv-tip-caramida-3d.webp",
     "featured": false
-  },
+  }, 
   {
-    "id": 57,
+    "id": 55,
     "slug": "tableta-magica-de-desen-cu-iluminare-led-pentru-copii",
     "name": "Tabletă Magică de desen cu iluminare LED pentru copii",
     "description": "Tablă de scris reutilizabilă, jucărie educativă creativ",
@@ -682,9 +658,9 @@ window.PRODUCTS = [
     "category": "Jocuri",
     "image": "assets/images/tableta-magica-de-desen-cu-iluminare-led-pentru-copii.webp",
     "featured": false
-  },
+  }, 
   {
-    "id": 58,
+    "id": 56,
     "slug": "geanta-de-voiaj-extensibila-cu-roti",
     "name": "Geantă de voiaj extensibilă cu roți",
     "description": "Capacitate mare, design pliabil, ideală pentru transport și călătorii",
@@ -694,9 +670,9 @@ window.PRODUCTS = [
     "category": "Casă și grădină",
     "image": "assets/images/travel-bag.webp",
     "featured": true
-  },
+  }, 
   {
-    "id": 59,
+    "id": 57,
     "slug": "crema-pentru-varice",
     "name": "Cremă pentru varice",
     "description": "Tratament natural pentru circulație și reducerea venelor varicoase",
@@ -708,7 +684,7 @@ window.PRODUCTS = [
     "featured": false
   },
   {
-    "id": 60,
+    "id": 58,
     "slug": "crema-pentru-hemoroizi-20g",
     "name": "Cremă pentru Hemoroizi 20g",
     "description": "Confort și îngrijire zilnică",
@@ -720,7 +696,7 @@ window.PRODUCTS = [
     "featured": false
   },
   {
-    "id": 61,
+    "id": 59,
     "slug": "patura-impermeabila",
     "name": "Pătură Impermeabilă pentru Pat (120x80 cm)",
     "description": "Protecție Antilichide",
@@ -732,19 +708,7 @@ window.PRODUCTS = [
     "featured": false
   },
   {
-    "id": 62,
-    "slug": "spuma-autobronzanta-oceaura-self-tanner-mousse-100ml",
-    "name": "Spumă Autobronzantă 100ml",
-    "description": "Rapidă, sigură și eficientă pentru obținerea unui bronz impecabil",
-    "price": "14.9 Lei",
-    "stock": "350",
-    "video": "",
-    "category": "Beauty",
-    "image": "assets/images/spuma-autobronzanta-oceaura-self-tanner-mousse-100ml.webp",
-    "featured": false
-  },
-  {
-    "id": 63,
+    "id": 60,
     "slug": "dispozitiv-de-filetat-2-in-1-pentru-tevi-pvc-set-3-bucati",
     "name": "Dispozitiv de Filetat 2-în-1 pentru Țevi PVC Set 3 Bucăți",
     "description": "Soluție practică pentru instalatori, firme de mentenanță și profesioniști din domeniul instalațiilor, acest dispozitiv de filetat 2-în-1 pentru țevi PVC permite prelucrarea atât a filetului interior, cât și a filetului exterior, reducând necesarul de scule separate și timpul de lucru. Capul special conceput oferă o funcționalitate dublă într-o singură piesă, facilitând conexiunile rapide și sigure între țevi și fitinguri.",
