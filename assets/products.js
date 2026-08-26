@@ -721,7 +721,7 @@ window.PRODUCTS = [
   },
       {
     "id": 61,
-    "slug": "capcane-capsule-anti-gandaci-momeala-set-8-capcane",
+    "slug": "products/Capcane- Capsule Anti-Gândaci Momeala – Set 8 Capcane",
     "name": "Capcane- Capsule Anti-Gândaci Momeala – Set 8 Capcane",
     "description": "Momeală Anti-Gândaci KILLMISE – Set 8 Capcane este o soluție practică pentru combaterea gândacilor, potrivită atât pentru utilizare rezidențială, cât și pentru spații comerciale și profesionale. Produsul este ambalat într-un set de 8 momeli individuale, ușor de amplasat în zonele în care este observată activitatea insectelor.",
     "price": "8 Lei",
