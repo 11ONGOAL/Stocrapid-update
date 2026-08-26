@@ -728,7 +728,7 @@ window.PRODUCTS = [
     "stock": "5000",
     "video": "",
     "category": "Casă și grădină",
-    "image": "assets/images/dispozitiv-de-filetat-2-in-1-pentru-tevi-pvc-set-3-bucati.webp",
+    "image": "assets/images/ChatGPT Image 25 aug. 2026, 11_49_53.png", "assets/images/ChatGPT Image 25 aug. 2026, 11_46_49.png", "assets/images/ChatGPT Image 25 aug. 2026, 11_59_24.png"
     "featured": false
   }
 ];
