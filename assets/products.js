@@ -742,5 +742,5 @@ window.PRODUCTS = [
   "category": "Casă și grădină",
   "image": "assets/images/fgghfg.png",
   "featured": false
-},
+}
 ];
