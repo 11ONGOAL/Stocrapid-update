@@ -718,5 +718,17 @@ window.PRODUCTS = [
     "category": "Casă și grădină",
     "image": "assets/images/dispozitiv-de-filetat-2-in-1-pentru-tevi-pvc-set-3-bucati.webp",
     "featured": false
+  },
+    {
+    "id": 60,
+    "slug": "dispozitiv-de-filetat-2-in-1-pentru-tevi-pvc-set-3-bucati",
+    "name": "Capcane- Capsule Anti-Gândaci Momeala – Set 8 Capcane",
+    "description": "Momeală Anti-Gândaci KILLMISE – Set 8 Capcane este o soluție practică pentru combaterea gândacilor, potrivită atât pentru utilizare rezidențială, cât și pentru spații comerciale și profesionale. Produsul este ambalat într-un set de 8 momeli individuale, ușor de amplasat în zonele în care este observată activitatea insectelor.",
+    "price": "8 Lei",
+    "stock": "5000",
+    "video": "",
+    "category": "Casă și grădină",
+    "image": "assets/images/dispozitiv-de-filetat-2-in-1-pentru-tevi-pvc-set-3-bucati.webp",
+    "featured": false
   }
 ];
