@@ -732,7 +732,7 @@ window.PRODUCTS = [
   "featured": false
 }
 {
-  "id": 61,
+  "id": 62,
   "slug": "set-2-unelte-filetare-20-mm-25-mm-pentru-tevi",
   "name": "Set 2 Unelte Filetare 20 mm + 25 mm pentru Țevi",
   "description": "Setul ThreadFix include 2 unelte pentru filetare, în dimensiunile de 20 mm și 25 mm, potrivite pentru lucrări de instalații, reparații și mentenanță. Uneltele sunt realizate din metal și sunt concepute pentru utilizare practică în prelucrarea și refacerea filetelor la țevi.",
