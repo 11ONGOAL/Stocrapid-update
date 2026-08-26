@@ -730,7 +730,7 @@ window.PRODUCTS = [
   "category": "Casă și grădină",
   "image": "assets/images/ChatGPT Image 25 aug. 2026, 11_49_53.png",
   "featured": false
-}
+},
 {
   "id": 62,
   "slug": "set-2-unelte-filetare-20-mm-25-mm-pentru-tevi",
